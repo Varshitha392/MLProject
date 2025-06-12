@@ -10,4 +10,5 @@ streamlit
 statsmodels
 catboost
 xgboost
+dill
 -e .
