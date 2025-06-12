@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+ipykernel
+flask
+memory_profiler
+streamlit
+statsmodels
+-e .
